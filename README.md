@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gerleojerry
+- 👋 Hi, I’m Jeremiah Oluborode.
 - 👀 I’m interested in Data Science, Machine Learning, Deep Learning, web programming(HTML, CSS JS,Python Django, Relational Database.)
 - 🌱 I’m currently learning Computer Vision using OpenCV.
 - 💞️ I’m looking to collaborate on Web Programming, Data Science, Machine Learning, Deep Learning etc
